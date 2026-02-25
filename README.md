@@ -1,2 +1,2 @@
 # First-Steps-in-Coding
-Bilgisayar mühendisliği 1. sınıf boyunca öğrendiğim kod örnekleri.
+Examples of code I learned during my first year of computer engineering..
