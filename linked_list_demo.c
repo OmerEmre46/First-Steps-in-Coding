@@ -35,3 +35,4 @@ int main(){
         ekle(root, i*10); //We call the ekle function in a loop to add new nodes to our linked list. We pass root as the node pointer and i*10 as the x value for each new node. This will add nodes with x values of 0, 10, 20, 30, and 40 to the end of our linked list.
     }
      bastir(root); //We call the bastir function to print the values of all nodes in our linked list starting from root. This will print the x values of all nodes in the list, which should be 500, 0, 10, 20, 30, and 40.
+}
